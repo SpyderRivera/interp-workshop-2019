@@ -14,6 +14,6 @@ $ cd interp-workshop-2019
 $ ./make_env.sh
 ```
 
-These steps will create a virtual environment, install the necessary dependencies, and launch a jupyter notebook in the virtual environment.
+These steps will create a virtual environment, install the necessary dependencies, and launch a jupyter notebook in the virtual environment. Note: Install instructions assume you are using Python 3.6.
 
 Let one of the instructors know if you have any issues! 
